@@ -15,7 +15,7 @@
 ## Author's Picture
 
 <div align="center">
-  <img src="URL_TO_AUTHOR_IMAGE" alt="Author's Picture" width="150" style="border-radius: 50%;">
+  <img src="https://i.pinimg.com/736x/07/f7/06/07f706134498b6e63d2ae49e05a8170a.jpg" alt="Author's Picture" width="150" style="border-radius: 50%;">
 </div>
 
 ## About the Author
